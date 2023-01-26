@@ -1,0 +1,16 @@
+.text-important{text-align: center;}
+
+.con {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    width: 50%;
+  }
+  .con > button {
+    align-self: center;
+    margin-top: 15px;
+  }
+  .con > button:hover {
+    color: white;
+    background-color: black;
+  }

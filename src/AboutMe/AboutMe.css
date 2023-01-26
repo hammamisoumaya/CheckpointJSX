@@ -1,0 +1,16 @@
+#about-me {
+    display: flex;
+    padding: 35px;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.168);
+  }
+
+
+  .avatar{
+    border-radius: 50%;
+  }
+  .name{
+    color: rgb(234, 98, 175);
+    text-decoration: solid;
+  }
